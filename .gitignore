@@ -502,3 +502,8 @@ ASALocalRun/
 healthchecksdb
 
 # End of https://www.gitignore.io/api/vim,linux,emacs,windows,sublimetext,visualstudio,xamarinstudio,visualstudiocode
+Documentazione.*
+TODO.*
+mockup/
+logs/
+*.DS_Store
